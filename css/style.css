@@ -1,3 +1,6 @@
+body {
+    font-family: "Roboto", serif;
+}
 header{
     background-color: #FFFFFF;
 }
@@ -17,8 +20,8 @@ address>ul{
     font-weight: bold;
     font-style: normal;
     font-size: 18px;
-    line-height: 1,166666666666667;
-    letter-spacing: 3%;
+    line-height: 1,16;
+    letter-spacing: 0.54px;
     
 }
 .Studio{
@@ -28,8 +31,8 @@ address>ul{
         font-weight: bold;
         font-style: normal;
         font-size: 18px;
-        line-height: 1,166666666666667;
-        letter-spacing: 3%;
+        line-height: 1,16;
+        letter-spacing: 0.54px;
 }
 .nav-link{
     color: #2E2F42;
@@ -39,7 +42,7 @@ address>ul{
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.32px;
     font-variation-settings: "wdth" 100;
     text-decoration: none;
 }
@@ -60,7 +63,7 @@ address>ul{
         font-style: normal;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 2%;
+        letter-spacing: 0.32px;
         font-variation-settings: "wdth" 100;
         text-decoration: none;
 }
@@ -71,8 +74,9 @@ address>ul{
     color: red;
 }
 
-body{
-    font-family: "Roboto", serif;
+
+.section-1{
+    background-color: #2E2F42;
 }
 h1{
     font-family: "Roboto", serif;
@@ -80,8 +84,8 @@ h1{
         font-weight: bold;
         font-style: normal;
         font-size: 56px;
-        line-height: 1,071428571428571;
-        letter-spacing: 2%;
+        line-height: 1,07;
+        letter-spacing: 1.12px;
         font-variation-settings: "wdth" 100;
         text-decoration: none;
         color: #FFFFFF;
@@ -94,10 +98,84 @@ button{
         font-style: normal;
         font-size: 16px;
         line-height: 1,5;
-        letter-spacing: 4%;
+        letter-spacing: 0.64px;
         font-variation-settings: "wdth" 100;
         text-decoration: none;
         color: #FFFFFF;
         background-color: #4D5AE5;
         cursor: pointer;
+}
+.section-2{
+    background-color: #FFFFFF;
+}
+.section-2>ul{
+    list-style-type: none;
+}
+h2{
+    font-family: "Roboto", serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 36px;
+        line-height: 1,1;
+        letter-spacing: 0.72px;
+        font-variation-settings: "wdth" 100;
+        text-decoration: none;
+        color: #2E2F42;
+}
+h3{
+    font-family: "Roboto", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 1,2;
+        letter-spacing: 0.4px;
+        font-variation-settings: "wdth" 100;
+        text-decoration: none;
+        color: #2E2F42;
+}
+p{
+    font-family: "Roboto", serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 1,5;
+        letter-spacing: 0.32px;
+        font-variation-settings: "wdth" 100;
+        text-decoration: none;
+        color: #434455;
+}
+.section-3{
+background-color: #F4F4FD;
+}
+.section-3>ul{
+    list-style-type: none;
+}
+.section-4{
+    background-color: #FFFFFF;
+}
+.section-4>ul{
+    list-style-type: none;
+}
+footer>a{
+    text-decoration: none;
+}
+footer{
+    background-color: #2E2F42;
+}
+footer>a .Studio{
+        color: #F4F4FD;
+        font-family: "Raleway",
+        serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 1,16;
+        letter-spacing: 0.54px;
+}
+footer>p{
+    color: #F4F4FD;
 }

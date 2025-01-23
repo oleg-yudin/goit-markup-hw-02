@@ -35,16 +35,16 @@ address>ul{
         letter-spacing: 0.54px;
 }
 .nav-link{
-    color: #2E2F42;
-    font-family: "Roboto", serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.32px;
-    font-variation-settings: "wdth" 100;
-    text-decoration: none;
+        color: #2E2F42;
+        font-family: "Roboto", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.32px;
+        font-variation-settings: "wdth" 100;
+        text-decoration: none;
 }
 .nav-link:hover{
     color: black;
@@ -56,8 +56,8 @@ address>ul{
     color: orange;
 }
 .address{
-    color: #434455;
-    font-family: "Roboto", serif;
+        color: #434455;
+        font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: 400;
         font-style: normal;
@@ -79,7 +79,7 @@ address>ul{
     background-color: #2E2F42;
 }
 h1{
-    font-family: "Roboto", serif;
+        font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: bold;
         font-style: normal;
@@ -92,7 +92,7 @@ h1{
         background-color: #2E2F42;
 }
 button{
-    font-family: "Roboto", serif;
+        font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: 500;
         font-style: normal;
@@ -112,7 +112,7 @@ button{
     list-style-type: none;
 }
 h2{
-    font-family: "Roboto", serif;
+        font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: bold;
         font-style: normal;
@@ -124,7 +124,7 @@ h2{
         color: #2E2F42;
 }
 h3{
-    font-family: "Roboto", serif;
+        font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: 500;
         font-style: normal;
@@ -136,7 +136,7 @@ h3{
         color: #2E2F42;
 }
 p{
-    font-family: "Roboto", serif;
+        font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: 400;
         font-style: normal;
@@ -148,7 +148,7 @@ p{
         color: #434455;
 }
 .section-3{
-background-color: #F4F4FD;
+    background-color: #F4F4FD;
 }
 .section-3>ul{
     list-style-type: none;

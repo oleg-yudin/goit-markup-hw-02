@@ -1,0 +1,74 @@
+header{
+    background-color: #FFFFFF;
+}
+nav>a{
+    text-decoration: none;
+}
+nav>ul{
+    list-style-type: none;
+}
+address>ul{
+    list-style-type: none;
+}
+.Web{
+    color: #4D5AE5;
+    font-family: "Raleway", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1,166666666666667;
+    letter-spacing: 3%;
+    
+}
+.Studio{
+        color: #2E2F42;
+        font-family: "Raleway", serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 1,166666666666667;
+        letter-spacing: 3%;
+}
+.nav-link{
+    color: #2E2F42;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    font-variation-settings: "wdth" 100;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: black;
+}
+.nav-link:active{
+    color: red;
+}
+.nav-link:focus{
+    color: orange;
+}
+.address{
+    color: #434455;
+    font-family: "Roboto", serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 2%;
+        font-variation-settings: "wdth" 100;
+        text-decoration: none;
+}
+.address:hover{
+    color: black;
+}
+.address:active{
+    color: red;
+}
+
+

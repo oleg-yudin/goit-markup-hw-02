@@ -32,7 +32,17 @@ address>ul{
         font-weight: bold;
         font-style: normal;
         font-size: 18px;
-        line-height: 1,16;
+        line-height: 1.16;
+        letter-spacing: 0.54px;
+}
+.Studio-2{
+    color: #F4F4FD;
+        font-family: "Raleway", serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 1.16;
         letter-spacing: 0.54px;
 }
 .nav-link{
@@ -93,7 +103,7 @@ address>ul{
         font-weight: bold;
         font-style: normal;
         font-size: 56px;
-        line-height: 1,07;
+        line-height: 1.07;
         letter-spacing: 1.12px;
         font-variation-settings: "wdth" 100;
         text-decoration: none;
@@ -106,7 +116,7 @@ address>ul{
         font-weight: 500;
         font-style: normal;
         font-size: 16px;
-        line-height: 1,5;
+        line-height: 1.5;
         letter-spacing: 0.64px;
         font-variation-settings: "wdth" 100;
         text-decoration: none;
@@ -196,7 +206,7 @@ footer>a .Studio{
         font-weight: bold;
         font-style: normal;
         font-size: 18px;
-        line-height: 1,16;
+        line-height: 1.16;
         letter-spacing: 0.54px;
 }
 footer>p{

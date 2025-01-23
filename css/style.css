@@ -25,7 +25,7 @@ address>ul{
     color: #4D5AE5;
 }
 
-.Studio{
+.studio{
         color: #2E2F42;
         font-family: "Raleway", serif;
         font-optical-sizing: auto;
@@ -35,7 +35,7 @@ address>ul{
         line-height: 1.16;
         letter-spacing: 0.54px;
 }
-.Studio-two{
+.studio-two{
     color: #F4F4FD;
         font-family: "Raleway", serif;
         font-optical-sizing: auto;
@@ -138,7 +138,7 @@ address>ul{
     list-style-type: none;
 }
 
-h2{
+.sections-title{
         font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: bold;
@@ -152,7 +152,7 @@ h2{
         text-decoration: none;
         color: #2E2F42;
 }
-.section-two-list-title-h3{
+.section-two-list-title{
         font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: 500;
@@ -164,7 +164,7 @@ h2{
         text-decoration: none;
         color: #2E2F42;
 }
-.section-two-list-text-p{
+.section-two-list-text{
     font-family: "Roboto", serif;
         font-optical-sizing: auto;
         font-weight: 400;

@@ -73,6 +73,9 @@ address>ul{
 .address:active{
     color: red;
 }
+.address:focus{
+    color: orange;
+}
 
 
 .section-1{
